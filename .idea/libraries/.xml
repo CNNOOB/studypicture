@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="初始化工程">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vue学习/资料（含课件）/05_其他/初始化工程/03_vue3_vite.zip!/" />
+      <root url="jar://$PROJECT_DIR$/vue学习/资料（含课件）/05_其他/初始化工程/02_vue3_vue-cli.zip!/" />
+      <root url="jar://$PROJECT_DIR$/vue学习/资料（含课件）/05_其他/初始化工程/01_vue2_vue-cli.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

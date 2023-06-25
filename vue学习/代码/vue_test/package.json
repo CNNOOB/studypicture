@@ -1,0 +1,57 @@
+{
+  "name": "vue_test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "axios": "^0.21.1",
+    "babel-preset-es2015": "^6.24.1",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.15.3",
+    "less-loader": "^7.3.0",
+    "nanoid": "^3.1.23",
+    "pubsub-js": "^1.9.3",
+    "vue": "^2.6.11",
+    "vue-resource": "^1.5.3",
+    "vue-router": "^3.5.2",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "babel-plugin-component": "^1.1.1",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "description": "├── node_modules \r \t├── public\r \t│   ├── favicon.ico: 页签图标\r \t│   └── index.html: 主页面\r \t├── src\r \t│   ├── assets: 存放静态资源\r \t│   │   └── logo.png\r \t│   │── component: 存放组件\r \t│   │   └── HelloWorld.vue\r \t│   │── App.vue: 汇总所有组件\r \t│   │── main.js: 入口文件\r \t├── .gitignore: git版本管制忽略的配置\r \t├── babel.config.js: babel的配置文件\r \t├── package.json: 应用包配置文件 \r \t├── README.md: 应用描述文件\r \t├── package-lock.json：包版本控制文件",
+  "main": "babel.config.js",
+  "author": "",
+  "license": "ISC"
+}

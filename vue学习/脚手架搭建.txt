@@ -1,0 +1,7 @@
+npm config get registry 查看当前镜像地址
+npm config set registry https://registry.npm.taobao.org/ 设置淘宝镜像
+npm install -g @vue/cli
+切换到要创建项目的目录
+vue create vue-test	这一步可选vue2 或 vue3
+切换到vue-test
+npm run serve

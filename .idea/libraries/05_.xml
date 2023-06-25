@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="05_其他">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vue学习/资料（含课件）/05_其他/测试部署服务器.zip!/" />
+      <root url="jar://$PROJECT_DIR$/vue学习/资料（含课件）/05_其他/test_proxy_server.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
