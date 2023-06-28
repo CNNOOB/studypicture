@@ -10,3 +10,10 @@ git push -u origin main
 git remote add origin https://github.com/CNNOOB/sph_new.git
 git branch -M main
 git push -u origin main
+
+
+
+挂了梯子之后，让git push走梯子，
+其中 1088 是 SOCKS 代理的端口，可以在代理工具的设置中查看。
+git config --global http.proxy socks5://127.0.0.1:1088
+git config --global https.proxy socks5://127.0.0.1:1088
