@@ -38,6 +38,15 @@ const定义常量与使用let 定义的变量相似：
 ## DOM事件
 [菜鸟教程](https://www.runoob.com/jsref/dom-obj-event.html)
 
+## 数组和字符串操作
+###数组
+* 1.splice	从数组中添加或删除元素。
+* 2.slice		选取数组的一部分，并返回一个新数组
+
+### 字符串
+* 1.slice		提取字符串的片断，并在新的字符串中返回被提取的部分。splice(begin,end)左包含，右不包含
+* 2.split		把一个字符串分割成字符串数组
+
 ## 常犯错误
 * 1.switch 语句会使用恒等计算符(===)进行比较
 
